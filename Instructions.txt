@@ -1,0 +1,13 @@
+Prerequisites:
+1. Both Adyen and database files should be in csv format
+2. copy python scripts, adyen & database files in same folder 
+   or give the path of adyen and datbase while running the main.py
+
+
+
+Exectution Flow:
+1. run python main.py
+2. select the option
+3. Enter Adyen file name
+4. Enter the market you want to filter from adyen file
+5. Enter database file name
